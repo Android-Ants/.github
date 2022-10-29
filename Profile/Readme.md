@@ -1,7 +1,7 @@
 <div align="center">
 <div class="header">
 
-<img src="../Assets/org_logo.jfif" alt="Organisaion Logo" width="100" height="100">
+<img src="/Assets/org_logo.jfif" alt="Organisaion Logo" width="100" height="100">
 <h1 >
 Android Ants
 </h1>
@@ -10,7 +10,7 @@ Android Ants
 We build Android Applications.
 </p>
 
-<img src="../Assets/sos.PNG" alt="Season Of OpenSource" width="500" height="300">
+<img src="/Assets/sos.PNG" alt="Season Of OpenSource" width="500" height="300">
 
 
 <p>
