@@ -40,7 +40,7 @@ A Mobile appplication created to ease the process of making the census process o
 ##### Repo Link: https://github.com/webevaluator/nodebackend
 
 
-### 4. Jangarne Server
+### 4. Jangarna Server
 Description: Application Server of Jangarna App build using Nodejs.
 ##### Tech stack: JavaScript, Nodejs
 ##### Repo Link: https://github.com/Android-Ants/JangaranaServer
